@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ezequiel Lorenz</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
 
+- 🔭 I’m currently working on [Sistema Venta](https://github.com/ezelorenz/SistemaVenta)
+
 - 🌱 I’m currently learning **Vuejs - Angular**
 
 - 👨‍💻 All of my projects are available at [https://portafoliolorenzbackend.000webhostapp.com](https://portafoliolorenzbackend.000webhostapp.com)
@@ -9,9 +11,11 @@
 
 - 📫 How to reach me **eze_lorenz@hotmail.com**
 
+- 📄 Know about my experiences [I have experience in backend development with .NET, Vue.js, and Angular. I have good team management skills and interact well with people. Additionally, I can provide effective didactic explanations of technical knowledge.](I have experience in backend development with .NET, Vue.js, and Angular. I have good team management skills and interact well with people. Additionally, I can provide effective didactic explanations of technical knowledge.)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ezequiel-lorenz-27016b239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ezequiel-lorenz-27016b239/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ezequiel-lorenz-27016b239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ezequiel-lorenz-27016b239/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezelorenz&show_icons=true&locale=en&layout=compact" alt="ezelorenz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezelorenz&show_icons=true&locale=en" alt="ezelorenz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezelorenz&" alt="ezelorenz" /></p>
