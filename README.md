@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **eze_lorenz@hotmail.com**
 
-- 📄 Know about my experiences [I have experience in backend development with .NET, Vue.js, and Angular. I have good team management skills and interact well with people. Additionally, I can provide effective didactic explanations of technical knowledge.](I have experience in backend development with .NET, Vue.js, and Angular. I have good team management skills and interact well with people. Additionally, I can provide effective didactic explanations of technical knowledge.)
+- 📄 Know about my experiences I have experience in backend development with .NET, Vue.js, and Angular. I have good team management skills and interact well with people. Additionally, I can provide effective didactic explanations of technical knowledge.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
